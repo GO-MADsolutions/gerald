@@ -1,0 +1,6 @@
+**/node_modules
+**/build
+
+backend/**/node_modules
+front-end/**/node_modules
+fontend/**/node_modules
